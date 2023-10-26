@@ -1,2 +1,2 @@
-# msnr2023
-MSNR Seminarski
+# MSNR 2023
+ Seminarski
